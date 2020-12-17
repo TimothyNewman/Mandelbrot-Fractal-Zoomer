@@ -1,0 +1,1 @@
+Please note that this project serves as a Mandelbrot Fractal Zoomer was developed by me through skeleton code at UCB. All the files created in this project was not written by me but the vast majority of the code seen in the c files are my own.
